@@ -1,0 +1,28 @@
+name: sjssh
+favicon: null
+layout_spectrum: 0.9585246201604605
+typography_spectrum: 0.03256621980108321
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.27736404398456216
+  lightness: 0.19025299279019237
+  saturation: 0.4531276759225875
+  rhythmicContrast: 0.006171619752421975
+purpose: []
